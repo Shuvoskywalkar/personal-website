@@ -1,0 +1,39 @@
+body{font-family: 'Roboto', sans-serif;
+}
+.pinky{color:hotpink}
+h1{font-size: 50px;}
+h2{font-size: 40px;}
+section{height:500px}
+.sec1 {
+    height:450px;background-image: url(images/header-bg.png);background-repeat: no-repeat;
+background-position: left;background-size: 100%;}
+.sec2{background-image: url(images/biography-bg.png);
+background-repeat: no-repeat;background-size: 120%;background-position: left;height: 600px;}
+.sec2 background-image{height: 100%;}
+.firstclass{float: left;
+margin-left: 5%;padding: 2%;width: 40%;}
+.firstclass img{width:100%;}
+.link1{text-decoration:none;
+color:white;
+font-weight: 700;
+background-image:linear-gradient(45deg,#Eb4F90,hotpink);
+padding: 12px 40px;border-radius:6px;}
+.h2{text-align:center;font-size:30px;}
+.sec3{
+    height:300px;background-image: url(images/latest-work-bg.png);background-repeat: no-repeat;background-position:left;background-size: 120%;}
+.link2{text-decoration: none;
+color: white;font-weight:700;background-image: linear-gradient(180deg,#Eb4F90,hotpink);
+padding: 12px 40px;border-radius: 6px;}
+.firstclas{float: left;
+    margin-left: 5%;padding:1%;width: 25%;}
+.firstclas img{width:100%;}
+.sec4{height: 600px;width:100%;
+    background-image: url(images/footer-bg.png);background-repeat: no-repeat;background-position: left;background-size: 120%;text-align: center;}
+h5{color:grey}
+footer{text-align:center ;}
+.clasy{color: grey;}
+.mail{text-decoration: none;
+}
+.path{color:white;
+background-image: linear-gradient(180deg,#Eb4F90,hotpink);margin: auto;width: min-content;padding: 20px 130px;border-radius: 20px;}
+.robota{font-weight: 800;font-size: 35px;}
